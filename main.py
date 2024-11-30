@@ -13,7 +13,7 @@ st.set_page_config(page_title="Stop Words Removal", page_icon="✨", layout="wid
 
 # Header Section with the updated image path
 st.image(
-    "https://github.com/Amit123456777/streamlit_website_stop_punct_removal/blob/main/Screenshot%202024-11-29%20234452.png?raw=true",
+    "https://github.com/Amit123456777/streamlit_website-stopword-punctuation-removal-/blob/main/Screenshot%202024-11-29%20234452.png",
 )
 
 st.markdown("""
