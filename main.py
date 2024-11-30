@@ -1,8 +1,8 @@
 import streamlit as st
+import nltk
 from nltk.tokenize import word_tokenize
 from string import punctuation
 from nltk.corpus import stopwords
-import nltk
 
 # Download NLTK resources (if not already downloaded)
 nltk.download('punkt')
